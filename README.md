@@ -8,5 +8,5 @@ console.py b http://coolsite.com/myfile.zip
 you can also use --bsf for edit name of output file
 
 To use build:
-console.py d <filename>
+console.py d filename
 </pre>
